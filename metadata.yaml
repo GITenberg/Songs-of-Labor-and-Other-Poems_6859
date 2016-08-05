@@ -1,0 +1,37 @@
+_repo: Songs-of-Labor-and-Other-Poems_6859
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Frank, Helena
+    gutenberg_agent_id: '34814'
+    url: http://www.gutenberg.org/2009/agents/34814
+  - agent_name: Stokes, Rose Pastor
+    alias: Stokes, Rose Pastor Wieslander
+    birthdate: 1879
+    deathdate: 1933
+    gutenberg_agent_id: '34813'
+    url: http://www.gutenberg.org/2009/agents/34813
+creator:
+  author:
+    agent_name: Rosenfeld, Morris
+    alias: Rozenfeld, Moris
+    birthdate: 1862
+    deathdate: 1923
+    gutenberg_agent_id: '2226'
+    url: http://www.gutenberg.org/2009/agents/2226
+    wikipedia: http://en.wikipedia.org/wiki/Morris_Rosenfeld
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6859'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PJ'
+- !lcsh 'Poetry'
+- GITenberg
+title: Songs of Labor, and Other Poems
+url: http://www.gutenberg.org/ebooks/6859
